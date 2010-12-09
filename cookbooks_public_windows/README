@@ -1,0 +1,27 @@
+= RightScale Public Cookbooks for Windows
+
+= DESCRIPTION
+
+This repository includes cookbooks used by RightScale's Windows Chef ServerTemplates.
+
+== Synopsis
+
+RightScale now supports server configuration using the open source integration 
+framework called Chef[1].
+
+Please contact support@rightscale.com to report any issues.
+
+== Supported Configuration
+
+These cookbooks have been tested on the EC2 cloud using the RightScale 
+platform ServerTemplates.
+
+== Work in Progress
+
+RightScale cookbooks are a work in progress, expect more documentation and examples in the near
+future. 
+
+= ADDITIONAL RESOURCES
+
+* [1] Chef is http://wiki.opscode.com/display/chef/Home
+
